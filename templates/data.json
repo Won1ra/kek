@@ -12,7 +12,15 @@
   	  "y": -2062,
   	  "width": 2432,
   	  "height": 603 
-},   
+},
+  "Derpa.png": {
+    "name": "Derpa.png",
+    "x": 3479,
+    "y": -792,
+    "width": 400,
+    "height": 410 
+},
+     
     "10": {
    	 "name": "10.png",
   	  "x": -1634,
